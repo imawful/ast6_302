@@ -1,0 +1,334 @@
+
+Interval 1
+
+Updating Luigi
+Updating Waluigi
+Updating Link
+Updating Peach
+Updating Toad
+Updating ShyGuy
+Updating KoopaTroopa
+Updating Daisy
+Updating Bowser
+Updating Yoshi
+Updating Mario
+Updating DiddyKong
+Updating KingBoo
+Updating Rosalina
+Updating BowserJr
+Updating Wario
+Updating DonkeyKong
+
+Interval 2
+
+Updating Luigi
+Updating Rosalina
+Updating Wario
+Updating Peach
+Updating Toad
+Updating Waluigi
+Updating Bowser
+Updating Daisy
+Updating KoopaTroopa
+Updating ShyGuy
+Updating Mario
+Updating DiddyKong
+Updating KingBoo
+Updating Yoshi
+
+Interval 3
+
+Updating Luigi
+Updating DonkeyKong
+Updating KingBoo
+Updating Peach
+Updating Rosalina
+Updating Waluigi
+Updating Bowser
+Updating Yoshi
+Updating KoopaTroopa
+Updating DiddyKong
+Updating ShyGuy
+
+Interval 4
+
+Updating Peach
+
+Interval 5
+
+Updating Peach
+Updating Luigi
+Updating Yoshi
+Updating Mario
+Updating Wario
+Updating ShyGuy
+Updating Waluigi
+Updating KingBoo
+Updating KoopaTroopa
+Updating Rosalina
+Updating DiddyKong
+Updating Toad
+
+Interval 6
+
+Updating Link
+Updating Bowser
+Updating DiddyKong
+Updating Mario
+Updating Peach
+Updating ShyGuy
+Updating Waluigi
+Updating Daisy
+Updating KoopaTroopa
+Updating Luigi
+Updating Yoshi
+Updating Toad
+Updating BowserJr
+Updating DonkeyKong
+Updating Rosalina
+Updating Wario
+
+Interval 7
+
+Updating DiddyKong
+Updating Luigi
+Updating KoopaTroopa
+Updating Mario
+
+Interval 8
+
+Updating DiddyKong
+Updating Mario
+Updating Toad
+Updating KingBoo
+Updating Peach
+Updating ShyGuy
+Updating Wario
+Updating Daisy
+Updating Bowser
+
+Interval 9
+
+Updating Waluigi
+Updating Mario
+Updating KingBoo
+Updating Luigi
+Updating Peach
+Updating DonkeyKong
+Updating Wario
+Updating Toad
+Updating Bowser
+Updating Yoshi
+
+Interval 10
+
+Updating DonkeyKong
+
+Interval 11
+
+Updating DonkeyKong
+Updating Daisy
+Updating Bowser
+Updating Rosalina
+Updating ShyGuy
+Updating Wario
+Updating Luigi
+Updating KingBoo
+Updating Waluigi
+Updating Yoshi
+Updating Link
+Updating KoopaTroopa
+Updating Peach
+Updating DiddyKong
+Updating BowserJr
+
+Interval 12
+
+1 DiddyKong
+
+Updating Luigi
+Updating Link
+Updating Yoshi
+Updating Rosalina
+Updating Peach
+Updating Wario
+Updating DonkeyKong
+Updating Toad
+Updating Bowser
+Updating ShyGuy
+Updating Waluigi
+Updating KoopaTroopa
+Updating Daisy
+Updating BowserJr
+Updating Mario
+Updating KingBoo
+
+Interval 13
+
+2 Mario
+
+Updating ShyGuy
+Updating BowserJr
+Updating DonkeyKong
+Updating Luigi
+Updating Rosalina
+Updating Link
+Updating Yoshi
+Updating Wario
+Updating Bowser
+Updating Peach
+Updating Waluigi
+
+Interval 14
+
+3 Luigi
+
+4 Peach
+
+Updating BowserJr
+Updating Waluigi
+Updating DonkeyKong
+Updating Bowser
+Updating Link
+Updating Toad
+Updating KoopaTroopa
+
+Interval 15
+
+Updating KoopaTroopa
+Updating Wario
+Updating Toad
+
+Interval 16
+
+5 KoopaTroopa
+
+Updating Link
+Updating Rosalina
+Updating Bowser
+Updating KingBoo
+
+Interval 17
+
+Updating KingBoo
+Updating Link
+Updating Wario
+Updating Bowser
+Updating ShyGuy
+Updating Daisy
+Updating Waluigi
+Updating Toad
+Updating DonkeyKong
+Updating Rosalina
+Updating Yoshi
+Updating BowserJr
+
+Interval 18
+
+6 Waluigi
+
+7 Bowser
+
+8 Toad
+
+Updating ShyGuy
+Updating Yoshi
+Updating Wario
+Updating BowserJr
+Updating Link
+Updating Rosalina
+Updating DonkeyKong
+Updating KingBoo
+Updating Daisy
+
+Interval 19
+
+9 Yoshi
+
+10 KingBoo
+
+Updating BowserJr
+Updating ShyGuy
+Updating Wario
+
+Interval 20
+
+Updating BowserJr
+Updating Link
+Updating DonkeyKong
+Updating Rosalina
+Updating ShyGuy
+
+Interval 21
+
+11 DonkeyKong
+
+12 ShyGuy
+
+Updating Daisy
+Updating Wario
+Updating Link
+
+Interval 22
+
+13 Daisy
+
+Updating Wario
+Updating BowserJr
+
+Interval 23
+
+Updating BowserJr
+
+Interval 24
+
+Updating Rosalina
+
+Interval 25
+
+14 Rosalina
+
+Updating Link
+
+Interval 26
+
+Updating BowserJr
+Updating Link
+
+Interval 27
+
+Updating Link
+Updating Wario
+
+Interval 28
+
+15 Wario
+
+Updating BowserJr
+
+Interval 29
+
+Updating Link
+
+Interval 30
+
+16 Link
+
+Updating BowserJr
+
+Interval 31
+
+Updating BowserJr
+
+Interval 32
+
+Updating BowserJr
+
+Interval 33
+
+Updating BowserJr
+
+Interval 34
+
+17 BowserJr
+

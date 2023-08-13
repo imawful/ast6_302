@@ -1,0 +1,96 @@
+
+Interval 1
+
+Updating DonkeyKong
+Updating Luigi
+Updating Bowser
+Updating Mario
+
+Interval 2
+
+Updating DONKEYKONG
+Updating Bowser
+Updating Yoshi
+Updating peach
+Updating Toad
+Already updated DonkeyKong in this interval!
+
+Updating Wario
+Updating Luigi
+Updating Mario
+
+Interval 3
+
+Updating Yoshi
+Updating Bowser
+Updating Wario
+Already updated YOSHI in this interval!
+
+
+Interval 4
+
+Updating Yoshi
+Updating Peach
+Updating Wario
+Updating Luigi
+
+Interval 5
+
+Updating Luigi
+Updating Bowser
+
+Interval 6
+
+1 Luigi
+
+2 Bowser
+
+Updating Toad
+Racer has already finished the race!
+
+
+Interval 7
+
+Updating DonkeyKong
+Updating Yoshi
+Updating Peach
+Updating Wario
+Already updated Yoshi in this interval!
+
+
+Interval 8
+
+3 Yoshi
+
+4 Wario
+
+Updating Toad
+
+Interval 9
+
+5 Toad
+
+Updating DonkeyKong
+
+Interval 10
+
+6 DonkeyKong
+
+Updating Peach
+
+Interval 11
+
+7 Peach
+
+Racer has already finished the race!
+
+Updating Mario
+
+Interval 12
+
+Updating Mario
+
+Interval 13
+
+8 Mario
+
